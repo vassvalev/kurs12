@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "vebinar.html",
+    "currentPage": "index.html",
     "name": "Курсология",
     "theme": {
       "name": "mobirise3",
@@ -146,7 +146,9 @@
               "color": "#28324e"
             },
             ".mbr-section-lead": {
-              "color": "#28324e"
+              "color": "#28324e",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_anchor": "header1-1",
@@ -170,8 +172,8 @@
             "showButtons": true
           },
           "title": "МОБИЛЬНЫЙ САЙТ",
-          "text": "Как сделать сайт для бизнеса без денег и поддержки",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Скачать</a> "
+          "text": "<b>Как сделать сайт для инфобизнеса за 95 рублей</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Узнать</a> "
         },
         {
           "_name": "footer1",
