@@ -366,9 +366,9 @@
             }
           },
           "_params": {
-            "showText": false
+            "showText": true
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
+          "text": "Комментарии под этим видео. ♦"
         },
         {
           "alias": "facebook-comments",
